@@ -1,0 +1,1 @@
+{"description":"Twin Lanterns （双灯谜市）: a spot-the-difference game — three original hand-drawn scenes, seven differences each, played in a desktop browser from static files.","engines":{"node":">=22.18"},"license":"MIT","name":"twin-lanterns-spot-the-difference","scripts":{"hand-in":"node main.ts","serve":"node serve.ts"},"type":"module","version":"1.0.0"}
